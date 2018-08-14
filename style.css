@@ -1,0 +1,13 @@
+h1 {
+	text-align: center;
+}
+
+body {
+	background-color: yellow;
+	color: blue;
+	font-style: italic;
+}
+p {
+	font color: gray;
+	font size: 18px;
+}
